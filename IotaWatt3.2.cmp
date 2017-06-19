@@ -1,0 +1,717 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /5947A75B;
+Reference = AC;
+ValeurCmp = 2.1MMJACKSMT;
+IdModule  = IOTAWATT_PARTS_DCJACK_2MM_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947A823;
+Reference = ADR510;
+ValeurCmp = VREF_SHUNT;
+IdModule  = IOTAWATT_PARTS_SOT23_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947A8EB;
+Reference = C1;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947A9B3;
+Reference = C2;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947AA7B;
+Reference = C3;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947AB43;
+Reference = C4;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947AC0B;
+Reference = C5;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947ACD3;
+Reference = C6;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947AD9B;
+Reference = C7;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947AE63;
+Reference = C8;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947AF2B;
+Reference = C9;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947AFF3;
+Reference = C10;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B0BB;
+Reference = C11;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B183;
+Reference = C12;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B24B;
+Reference = C13;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B313;
+Reference = C14;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B3DB;
+Reference = C16;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B4A3;
+Reference = C17;
+ValeurCmp = C-USC0805;
+IdModule  = ADAFRUIT_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B56B;
+Reference = MCP1;
+ValeurCmp = MCP3208;
+IdModule  = IOTAWATT_PARTS_SOIC_16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B633;
+Reference = MCP3208;
+ValeurCmp = MCP3208;
+IdModule  = IOTAWATT_PARTS_SOIC_16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B6FB;
+Reference = R1;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B7C3;
+Reference = R2;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B88B;
+Reference = R3;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947B953;
+Reference = R4;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947BA1B;
+Reference = R5;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947BAE3;
+Reference = R6;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947BBAB;
+Reference = R7;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947BC73;
+Reference = R8;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947BD3B;
+Reference = R9;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947BE03;
+Reference = R10;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947BECB;
+Reference = R11;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947BF93;
+Reference = R12;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C05B;
+Reference = R13;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C123;
+Reference = R14;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C1EB;
+Reference = R15;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C2B3;
+Reference = R16;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C37B;
+Reference = R17;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C443;
+Reference = R18;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C50B;
+Reference = R19;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C5D3;
+Reference = R20;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C69B;
+Reference = R21;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C763;
+Reference = R22;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C82B;
+Reference = R23;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C8F3;
+Reference = R24;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947C9BB;
+Reference = R25;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947CA83;
+Reference = R26;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947CB4B;
+Reference = R27;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947CC13;
+Reference = R28;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947CCDB;
+Reference = R29;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947CDA3;
+Reference = R30;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947CE6B;
+Reference = R31;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947CF33;
+Reference = R32;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947CFFB;
+Reference = R33;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D0C3;
+Reference = R34;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D18B;
+Reference = R35;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D253;
+Reference = R36;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D31B;
+Reference = R37;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D3E3;
+Reference = R38;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D4AB;
+Reference = R39;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D573;
+Reference = R40;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D63B;
+Reference = R41;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D703;
+Reference = R42;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D7CB;
+Reference = R43;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D893;
+Reference = R44;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947D95B;
+Reference = R45;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947DA23;
+Reference = R46;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947DAEB;
+Reference = R47;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947DBB3;
+Reference = R48;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947DC7B;
+Reference = R49;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947DD43;
+Reference = R50;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947DE0B;
+Reference = R51;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947DED3;
+Reference = R52;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947DF9B;
+Reference = R53;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947E063;
+Reference = R54;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947E12B;
+Reference = R55;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947E1F3;
+Reference = R56;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947E2BB;
+Reference = R57;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947E383;
+Reference = R58;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947E44B;
+Reference = R61;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947E513;
+Reference = R62;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947E5DB;
+Reference = R63;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947E6A3;
+Reference = R64;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947ED47;
+Reference = U$1;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947EE0F;
+Reference = U$2;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947EED7;
+Reference = U$3;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947EF9F;
+Reference = U$4;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F067;
+Reference = U$5;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F12F;
+Reference = U$6;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F1F7;
+Reference = U$7;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F2BF;
+Reference = U$8;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F387;
+Reference = U$9;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F44F;
+Reference = U$10;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F517;
+Reference = U$11;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F5DF;
+Reference = U$12;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F6A7;
+Reference = U$13;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F76F;
+Reference = U$14;
+ValeurCmp = STEREO_SMD;
+IdModule  = IOTAWATT_PARTS_STEREO_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F837;
+Reference = U$15;
+ValeurCmp = LED_RT_TRH;
+IdModule  = IOTAWATT_PARTS_LED_TH_RT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F8FF;
+Reference = U$16;
+ValeurCmp = NODEMCU;
+IdModule  = IOTAWATT_PARTS_NODEMCU;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947F9C7;
+Reference = U$17;
+ValeurCmp = PCF8523_RTC;
+IdModule  = IOTAWATT_PARTS_SOIC_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947FA8F;
+Reference = U$18;
+ValeurCmp = CR1220SMD;
+IdModule  = IOTAWATT_PARTS_CR1220SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947FB57;
+Reference = U$19;
+ValeurCmp = MICROSD_PUSH/PULL;
+IdModule  = IOTAWATT_PARTS_MICROSD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5947FC1F;
+Reference = Y1;
+ValeurCmp = CRYSTAL8X3.8SMT;
+IdModule  = MICROBUILDER_CRYSTAL_8X3.8;
+EndCmp
+
+EndListe

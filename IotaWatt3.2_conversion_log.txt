@@ -1,0 +1,25 @@
+#********** START OF eagle6xx-sch-to-kicad-sch.ulp 1.9 19-06-2017 :19:55:54 LOG **********#
+Device Name Conflict: Device=MCP3208 from Internal SCH lib=IotaWatt_parts  With Device=MCP3208 from LIB=overeasy
+Device Name Conflict: Device=MCP3208 from Internal SCH lib=overeasy  With Device=MCP3208 from LIB=IotaWatt_parts
+#********** END OF eagle6xx-sch-to-kicad-sch.ulp 1.9 19-06-2017 :19:55:54 LOG **********#
+
+#********** START OF exp-lbrs.ulp 6.6 19-06-2017 :19:57:04 LOG **********#
+OK: Eagle lib export from SCH/PCB OK
+    Conversion completed with no Messages
+#********** END OF exp-lbrs.ulp 6.6 19-06-2017 :19:57:04 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.7 19-06-2017 :19:57:09 LOG **********#
+Missing Prefix Part =SMT				IOTAWATT_PARTS_DCJACK_2MM_SMT					IotaWatt3.2		M
+Missing Prefix Part =THM				IOTAWATT_PARTS_PJ-102A					IotaWatt3.2		M
+Missing Prefix Part =''				IOTAWATT_PARTS_CR1220SMD					IotaWatt3.2		M
+Missing Prefix Part =''				IOTAWATT_PARTS_LED_TH_RT					IotaWatt3.2		M
+Missing Prefix Part =''				IOTAWATT_PARTS_SOIC_16					IotaWatt3.2		M
+Missing Prefix Part =''				IOTAWATT_PARTS_MICROSD					IotaWatt3.2		M
+Missing Prefix Part =''				IOTAWATT_PARTS_NODEMCU					IotaWatt3.2		M
+Missing Prefix Part =''				IOTAWATT_PARTS_SOIC_8					IotaWatt3.2		M
+Missing Prefix Part =''				IOTAWATT_PARTS_STEREO_SMT					IotaWatt3.2		M
+Missing Prefix Part =''				IOTAWATT_PARTS_SOT23_3					IotaWatt3.2		M
+Missing Prefix Part =''				OVEREASY_MCP3208					IotaWatt3.2		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.7 19-06-2017 :19:57:09 LOG **********#
+
